@@ -1,16 +1,18 @@
 {
   "folders": [
-    {
-      "path": "."
-    }
-  ],
+	{
+		"path": "."
+	},
+	{
+		"name": ".leetcode",
+		"path": "C:/Users/16105/.leetcode"
+	}
+],
   "settings": {
-    "C_Cpp.autocompleteAddParentheses": true,
-    "runInTerminal.clearBeforeRun": true,
-    "runInTerminal.commands": [
-    
-    ],
-    "files.autoSave": "afterDelay",
-    "editor.fontSize": 14
+    "liveServer.settings.multiRootWorkspaceName": "MyBlog",
+    "files.associations": {
+      "iostream": "cpp"
+    },
+    "git.ignoreLimitWarning": true
   }
 }
